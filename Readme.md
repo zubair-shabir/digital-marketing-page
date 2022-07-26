@@ -1,6 +1,6 @@
 # Digital Marketing Home Page
 
-![Image](./Digital Marketing page.PNG)
+![Image](./Digital%20Marketing%20page.PNG)
 
 ---
 
@@ -23,6 +23,6 @@
 
 ## Links
 
-#### Live Site [Link](https://foodrestaurantpage.netlify.app/)
+#### Live Site [Link](https://digital-marketing-page.netlify.app/)
 
-#### Github Repo [link](https://github.com/zubair-shabir/Food-Restaurant-page.git)
+#### Github Repo [link](https://github.com/zubair-shabir/digital-marketing-page.git)
